@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-10T23:36:00 IST" name="Default suite" finished-at="2022-04-10T23:36:01 IST" duration-ms="125">
+    <groups>
+    </groups>
+    <test started-at="2022-04-10T23:36:00 IST" name="Default test" finished-at="2022-04-10T23:36:01 IST" duration-ms="125">
+      <class name="Simple_Annotation1">
+        <test-method is-config="true" signature="SystemsetProperty()[pri:0, instance:Simple_Annotation1@4a83a74a]" started-at="2022-04-10T23:36:00 IST" name="SystemsetProperty" finished-at="2022-04-10T23:36:00 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SystemsetProperty -->
+        <test-method is-config="true" signature="browserlaunch()[pri:0, instance:Simple_Annotation1@4a83a74a]" started-at="2022-04-10T23:36:00 IST" name="browserlaunch" finished-at="2022-04-10T23:36:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserlaunch -->
+        <test-method signature="Amazon()[pri:-1, instance:Simple_Annotation1@4a83a74a]" started-at="2022-04-10T23:36:01 IST" name="Amazon" finished-at="2022-04-10T23:36:01 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Amazon -->
+        <test-method is-config="true" signature="login_credentials()[pri:0, instance:Simple_Annotation1@4a83a74a]" started-at="2022-04-10T23:36:01 IST" name="login_credentials" finished-at="2022-04-10T23:36:01 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_credentials -->
+        <test-method is-config="true" signature="login_credentials()[pri:0, instance:Simple_Annotation1@4a83a74a]" started-at="2022-04-10T23:36:01 IST" name="login_credentials" finished-at="2022-04-10T23:36:01 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_credentials -->
+        <test-method signature="Facebook()[pri:0, instance:Simple_Annotation1@4a83a74a]" started-at="2022-04-10T23:36:01 IST" name="Facebook" finished-at="2022-04-10T23:36:01 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Facebook -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:Simple_Annotation1@4a83a74a]" started-at="2022-04-10T23:36:01 IST" name="logout" finished-at="2022-04-10T23:36:01 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:Simple_Annotation1@4a83a74a]" started-at="2022-04-10T23:36:01 IST" name="logout" finished-at="2022-04-10T23:36:01 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="login_credentials()[pri:0, instance:Simple_Annotation1@4a83a74a]" started-at="2022-04-10T23:36:01 IST" name="login_credentials" finished-at="2022-04-10T23:36:01 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_credentials -->
+        <test-method signature="fipKart()[pri:1, instance:Simple_Annotation1@4a83a74a]" started-at="2022-04-10T23:36:01 IST" name="fipKart" finished-at="2022-04-10T23:36:01 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fipKart -->
+        <test-method is-config="true" signature="login_credentials()[pri:0, instance:Simple_Annotation1@4a83a74a]" started-at="2022-04-10T23:36:01 IST" name="login_credentials" finished-at="2022-04-10T23:36:01 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_credentials -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:Simple_Annotation1@4a83a74a]" started-at="2022-04-10T23:36:01 IST" name="logout" finished-at="2022-04-10T23:36:01 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:Simple_Annotation1@4a83a74a]" started-at="2022-04-10T23:36:01 IST" name="logout" finished-at="2022-04-10T23:36:01 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method signature="fipKart()[pri:1, instance:Simple_Annotation1@4a83a74a]" started-at="2022-04-10T23:36:01 IST" name="fipKart" finished-at="2022-04-10T23:36:01 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fipKart -->
+        <test-method signature="fipKart()[pri:1, instance:Simple_Annotation1@4a83a74a]" started-at="2022-04-10T23:36:01 IST" name="fipKart" finished-at="2022-04-10T23:36:01 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fipKart -->
+        <test-method is-config="true" signature="login_credentials()[pri:0, instance:Simple_Annotation1@4a83a74a]" started-at="2022-04-10T23:36:01 IST" name="login_credentials" finished-at="2022-04-10T23:36:01 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_credentials -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:Simple_Annotation1@4a83a74a]" started-at="2022-04-10T23:36:01 IST" name="logout" finished-at="2022-04-10T23:36:01 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- Simple_Annotation1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
